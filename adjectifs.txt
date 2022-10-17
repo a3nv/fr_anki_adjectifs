@@ -1,0 +1,41 @@
+adjectif;translation;image
+beau; beautiful; 
+bon; good; 
+chaud; warm; 
+cher; expensive; 
+clair; light; 
+difficile; difficult; 
+dur; soft; 
+grand; big; 
+gros; fat; 
+haut; high; <img src="haute.jpg">
+jeune; young; 
+joyeux; happy; 
+léger; light; 
+long; long; 
+mouillé; wet; 
+nouveau; new; 
+ouvert; opened; 
+plein; full; 
+rapide; fast; 
+riche; rich; 
+laid; ugly; 
+mauvais; bad; 
+froid; cold; 
+bon marché; cheap; 
+foncé; dark; 
+facile; easy; 
+mou; hard; 
+petit; small; 
+maigre; skinny; 
+bas; low; <img src="bas(se).jpg">
+vieux; old; 
+triste; sad; 
+lourd; heavy; 
+court; short; 
+sec; dry; 
+ancien; old; 
+fermé; closed; 
+vide; empty; 
+lent; slow; 
+pouvre; poor; 
