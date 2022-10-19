@@ -1,14 +1,14 @@
-adjectif;translation;image
+adjectif;translation;image; context; context translation
 beau; beautiful; 
 bon; good; 
-chaud; warm; 
-cher; expensive; 
+chaud; warm; <img src="chaud.jpg">
+cher; expensive; <img src="cher.jpeg">
 clair; light; 
 difficile; difficult; 
-dur; soft; 
+dur; hard; <img src="dur.jpg">; Il travaille dur pour rembourser ses dettes.; He works hard to pay off his debts.
 grand; big; 
 gros; fat; 
-haut; high; <img src="haute.jpg">
+haut; high; <img src="haute.jpg">; Montez doucement, c'est haut.; Climb slowly, it's high.
 jeune; young; 
 joyeux; happy; 
 léger; light; 
@@ -25,12 +25,12 @@ froid; cold;
 bon marché; cheap; 
 foncé; dark; 
 facile; easy; 
-mou; hard; 
+mou; soft; 
 petit; small; 
 maigre; skinny; 
 bas; low; <img src="bas(se).jpg">
 vieux; old; 
-triste; sad; 
+triste; sad; <img src="triste.jpg">; C'est une histoire vraiment triste.; It's a really sad story.
 lourd; heavy; 
 court; short; 
 sec; dry; 
