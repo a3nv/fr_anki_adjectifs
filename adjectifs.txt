@@ -1,5 +1,5 @@
 adjectif;translation;image; context; context translation
-beau; beautiful; 
+beau(belle); beautiful; 
 bon; good; 
 chaud; warm; <img src="chaud.jpg">
 cher; expensive; <img src="cher.jpeg">
@@ -69,11 +69,11 @@ propre; lean, proper, own;
 sale; dirty;
 public; public;
 privé; private;
-silencieux; silent;
-bruyant; noisy;
-sympathique; friendly, pleasant;
-antipathique; ;
-tôt; early;
-tard; late;
-travailleur; hard worker;
-paresseux; lasy;
+silencieux; silent; <img src="silencieux.jpeg">; Vous allez devoir être très silencieux.; You're going to have to be really quiet.
+bruyant; noisy; <img src="bruyant.jpeg">; Soudainement c'est très bruyant ici.; It suddenly just got very noisy in here.
+sympathique; friendly, pleasant; <img src="sympathique.jpeg">; Merci beaucoup pour ce petit appartement fort sympathique.; Thank you very much for this little very nice apartment.
+antipathique; unpleasant; <img src="antipathique.jpg">; On dit qu'elle est fort antipathique.; I hear she's awfully unpleasant.
+tôt; early; <img src="tôt.jpeg">; Envoyez-nous des nouvelles au plus tôt.; Send us the news as soon as you know it.
+tard; late; <img src="tard.jpeg">; Votre message arrive un peu tard.; Well, this delivery arrived a little late.
+travailleur; hard worker; <img src="travailleur.jpeg">; Le travailleur manque parfois de connaissances.; Sometimes a worker does not have enough knowledge.
+paresseux; lasy; <img src="paresseux.jpg">; Martino est un Napolitain paresseux vivant en Suisse.; Martino is a lazy young Neapolitan who lives in Switzerland.
